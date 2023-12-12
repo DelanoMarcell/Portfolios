@@ -8,8 +8,17 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+@font-face {
+  
+  font-family: "Poppins-Medium";
+  src: url('../fonts/Poppins-Medium.ttf'); /* URL to font */
+
+}
+
 body {
-  font-family: "Open Sans", sans-serif;
+  
+  font-family: "Poppins-Medium", sans-serif;
   color: #444444;
 }
 
